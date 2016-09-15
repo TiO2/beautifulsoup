@@ -305,7 +305,7 @@ else:
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'beautifulsoup.tex', 'beautifulsoup Documentation',
-     'delong', 'manual'),
+     'tiO2', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

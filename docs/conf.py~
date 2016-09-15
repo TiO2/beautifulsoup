@@ -50,8 +50,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'beautifulsoup'
-copyright = '2016, delong'
-author = 'delong'
+copyright = '2016, TiO2'
+author = 'TiO2'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -239,7 +239,7 @@ htmlhelp_basename = 'beautifulsoupdoc'
 # -- Options for LaTeX output ---------------------------------------------
 import os 
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-if on_rtd:
+if not on_rtd:
     latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #'papersize': 'letterpaper',
