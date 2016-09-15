@@ -6,6 +6,9 @@ Beautiful Soup4
     
 测试中文的build. 
 
+Html ok
+Next step: build pdf? 
+
 This is the Beautiful Soup4 document in Chinese.
 
 这是Beautiful Soup 4 的中文文档.
